@@ -1,0 +1,3 @@
+# Result
+1. A sharp reflectance peak (R≈1) occurs at $λ_0=633 nm$, confirming the Bragg mirror's effectiveness. Transmittance T approaches zero at $λ_0$, as expected for a stopband.
+2. Reflectance remains high within a stopband around $λ_0$, with side lobes due to finite periods (10 layers). R+T≈1 across the spectrum, indicating negligible absorption (ideal dielectric assumption)
